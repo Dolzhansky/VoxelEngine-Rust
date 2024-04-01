@@ -1,1 +1,23 @@
-/target
+# Compiled files
+/target/
+
+# Generated documentation
+/doc/
+
+# IDE/Editor specific files
+.idea/
+.vscode/
+
+# Dependency directories
+Cargo.lock
+Cargo.toml.orig
+
+# Rust-Toolchain
+.rustup
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

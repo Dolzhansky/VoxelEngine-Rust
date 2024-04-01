@@ -1,8 +1,11 @@
 [package]
-name = "VoxelEngine-Rust"
+name = "voxel_engine_rust"
 version = "0.0.1"
 edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+gl = "0.14.0"
+glam = "0.27.0"
+glfw = "0.55.0"
